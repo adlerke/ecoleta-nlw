@@ -165,7 +165,7 @@ $ expo start
 
 Este projeto esta sobe a licença MIT.
 
-by Adler Kesley [Get in touch](https://www.linkedin.com/in/adler-kesley-34b09511b)
+by  [Adler Kesley](https://www.linkedin.com/in/adler-kesley-34b09511b)⚓
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/

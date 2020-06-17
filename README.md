@@ -71,6 +71,7 @@ This project was developed with the following technologies:
 -   [React Dropzone](https://github.com/react-dropzone/react-dropzone)
 -   [React Icons](https://react-icons.netlify.com/#/)
 -   [Leaflet](https://leafletjs.com/)
+-   [SweetAlert](https://sweetalert.js.org/)
 -   [React Leaflet](https://react-leaflet.js.org/)
 -   [ESLint](https://eslint.org/)
 -   [Prettier](https://prettier.io/)

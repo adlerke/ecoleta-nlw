@@ -7,7 +7,7 @@ import { Ubuntu_700Bold, useFonts } from '@expo-google-fonts/ubuntu'
 import Routes from "./src/routes";
 
 
-// console.disableYellowBox = true; apenas para testes do select box.
+console.disableYellowBox = true; 
 
 export default function App() {
   const [fontsLoaded] = useFonts({
